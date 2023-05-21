@@ -1,0 +1,285 @@
+president_id,first_name,last_name,birthdate,team_id
+1,Joos,Gysen,,t2795
+2,Gerdi,De Kimpe,,
+3,Philippe,Rassat,,
+4,Stéphane,ouezy,5/23/1983,
+5,Daniël,anden Berghe,5/12/1954,
+6,Abdon,Moens,,
+7,Mireille,Rahoens,,
+8,Edwin,Blauwblomme,,t1579
+9,Rik,Vervisch,3/27/1966,
+10,Chris,Van Wesemael,,
+11,Louis,Bril,,t1579
+12,Mathi,Raedschelders,6/1/1946,t1685
+13,Thomas,Charrié,,t1336
+14,Jean-Baptiste,Baron Del Amo,6/1/1983,t5476
+15,Jan,Goedhuys,,
+16,Piet,Van Kerckhove,,t2694
+17,Cyril,Guedon,,
+18,Philippe,Develter,,
+19,Cathy,Beaude,,
+20,Jan,Bens,,
+21,Coralie,Ros,,
+22,Francis,Buekenhout,,t1987
+23,Francis,De Nolf,9/3/1973,
+24,Dore,Wellens,,
+25,Hugo,Coussée,,t1579
+26,Angeliki,Kolia,11/12/1987,
+27,Mixalis,Mathioudakis,1/4/1985,
+28,Manos,Giarenis,,
+29,Zenonas,Severis,5/31/1990,t2604
+30,Tasos,Petridis,,t4084
+31,Vicky,Karampatsou,,
+32,Nikolaos,Roumeliotis,10/12/1978,t21048
+33,Roula,Pragaloudi,3/11/1967,
+34,Andreas,Patiniotis,,
+35,George,Giannakis,,
+36,Paraskevas,Mouratidis,,
+37,Charles,Caprasse,,t1987
+38,Ricardo,Garcia (Ricardinho) TOP 100,11/19/1975,
+39,Radamés,attari TOP 500,7/15/1957,
+40,Vittorio,Medioli,3/3/1951,t1802
+41,Dante,Amaral TOP 100,9/30/1980,t6735
+42,Elisângela,liveira (Lili) TOP 500,10/30/1978,
+43,Gisele,Miró,,
+44,Ary,Graça Filho,4/23/1943,
+45,Estevan,Augusto Paiffer (Estevan),3/14/1994,t15532
+46,Carlos,Arthur Nuzman,3/17/1942,
+47,Benoit,Gogniat,,
+48,Philip,Noever,,
+49,Michel,Legrand,,t1415
+50,Philipp,Odermatt,,
+51,Yves,Künzli,,t2365
+52,Stefan,Kyburz,,
+53,Jan,Wenger,,t3910
+54,Antoine,Benacloche,,
+55,Philippe,Rupp,,
+56,Dominik,Joos,,t1979
+57,Philippe,Tischhauser,,t1415
+58,Christian,Lohr,,t1979
+59,Lilly,Huber,,
+60,Stav,Jacobi,,
+61,Patrizia,Pfister,,t3628
+62,Werner,Schmid,,
+63,Gerhard,Nauer,,t3628
+64,Thomas,Müller,,
+65,Martin,Landolt,,
+66,Vassilios,Koutsogiannakis,,
+67,Christian,Marbach,,
+68,Roger,Mueller,,
+69,Urs,Kolb,,t3632
+70,Anthimos,Economides,1/25/1985,t1724
+71,Peter,Mucsi,9/7/1967,
+72,Zenonas,Severis,5/31/1990,t2604
+73,Emete,Yürün (PAŞA),4/7/2003,
+74,Gulyás,erenc (Fefe),10/12/1968,t4251
+75,Marios,Papageorgi,8/14/1991,
+76,Balázs,erekes,,
+77,Guido,Rosso,,
+78,Marcello,Gabana,6/11/1944,
+79,George,Vassiliou,,
+80,Louis,Yiannaki,,
+81,Alessandro,Duma,2/22/1985,
+82,Josef,Tesař (Medák) TOP 1000,3/11/1927,
+83,Milan,Fortuník (Forbes),2/3/1965,
+84,Peter,Goga,9/6/1965,
+85,Pavel,Šimoníček,,
+86,Simona,Sileoni,,
+87,Jiří,pelka TOP 1000,5/11/1977,
+88,Piero,Garbellotto,1/15/1980,
+89,Robert,Kromm TOP 500,3/9/1984,
+90,Johnny,Terrafina,,
+91,Melanie,Höppner,4/26/1982,
+92,Alexander,Mantlik,,
+93,Wolfgang,Wehner,,
+94,Dr.,Guido Reinhardt,,
+95,Giovanna,Saporiti,,
+96,Fritz,Scheuer,6/18/1954,
+97,Gino,Sirci,,
+98,Michael,Eisel,,t3607
+99,Robert,Langwieser,,
+100,Anna,Tanese,,
+101,Udo,Hammer,,t3607
+102,Catia,Pedrini,,
+103,Kaweh,Niroomand,12/4/1952,t1365
+104,Giuseppe,Pirola,,
+105,Gamal,Sabry,,t6736
+106,Filippo,Callipo,,
+107,Bruno,Da Re,10/6/1954,
+108,Diego,Mosna,2/21/1948,
+109,Sameh,Hamdy,,
+110,Abdelhamid,El Wassimy,,
+111,Mario,Valnegri,1/23/1986,
+112,Yahia,Walid,,t10853
+113,Jose,Luis Toran,,
+114,Andrea,Bartoccini,,
+115,Esteban,González Monzón,7/18/1963,t11162
+116,Jota,Crespo,,
+117,Susana,Pérez Ramos,,
+118,Miguel,Ángel Hernández Infantes,10/26/1966,t1449
+119,Francisco,Javier Díaz Martínez,1/12/1961,
+120,Juan,Sáez Celdrán,,
+121,Giulia,Gabana,6/28/1983,
+122,Alessio,Bittu,,
+123,Oscar,Arnaiz,,
+124,Luís,íaz Muñoz,4/18/1986,
+125,Leticia,González de Haro,,
+126,Tod,Suma,,
+127,José,ngel Albert,,
+128,Juan,Ruiz Ramos,2/12/1953,t1449
+129,Laetitia,Saint Honoré,,
+130,Jelena,Lozančić TOP 1000,3/26/1983,
+131,Gerald,M.,,
+132,Elisabetta,Curti,,t7645
+133,Alessandra,Marzari,,t1959
+134,David,Moukoko,,t4070
+135,Mylène,oubani-Bardet,,
+136,Fabrizio,Costantino,,
+137,Jean,Ravier,,t1515
+138,Vittorio,Medioli,3/3/1951,t1802
+139,Alain,Griguer,,t1680
+140,Stefano,Recine TOP 1000,4/18/1957,
+141,Patrick,Clauzel,,t2969
+142,Pierre,Mamessier,,t1409
+143,Roberto,Capra,,
+144,Albino,Massaccesi,,
+145,Alain,Clévenot,,t6698
+146,Thomas,Renard Chardin,12/13/1984,
+147,Philippe,Tuccelli,5/14/1981,t3629
+148,Francesca,Piccinini TOP 100,1/10/1979,
+149,Bruno,Luzerne,,t17710
+150,Anny,Courtade,11/7/1939,
+151,Adam,Rodolphe,12/30/1972,t11448
+152,Nicolas,Taravello,,
+153,Yuhei,Furuhata (降旗 雄平),,t7691
+154,Pierre,Mercier,,
+155,Kenji,Shimaoka (嶋岡健治),5/9/1949,
+156,Mikiyasu,Tanaka (田中幹保) TOP 1000,3/18/1955,t1721
+157,Seiichi,Kawabe (河部誠一),,t11280
+158,Atsushi,Kobayashi,3/10/1974,t1891
+159,Noriyuki,Muneuchi (宗内徳行),7/1/1931,
+160,Kenji,Kimura (木村憲治),7/19/1945,
+161,Kenshiro,Ikeda (池田 憲士郎),11/6/1996,t7691
+162,Yasutaka,Matsudaira (松平康隆),1/22/1930,
+163,Katsumi,Oda (小田勝美),5/6/1952,t1721
+164,Shigeo,Yamada (山田重雄) TOP 100,10/26/1931,
+165,Yoshie,Takeshita (竹下佳江),3/18/1978,
+166,Shunichi,Kawai (川合俊一),2/3/1963,
+167,Han-Soo,Kim (김한수),,
+168,Hyung-Bin,Yim (임형빈),9/24/1930,
+169,Jong-Kyung,Lee (이종경),1/19/1962,
+170,Byung-Hae,Yeon (연병해),,
+171,Kang-Pyung,Lee (이강평),,
+172,Seung-Soo,Park (박승수),1/1/1940,
+173,Chul-Soo,Kim (김철수),8/13/1970,t1868
+174,Young-Ho,Cho (조영호),12/2/1948,
+175,In,Lee (이 인) TOP 1000,3/14/1952,
+176,Jyun-Kyu,Park (박준규),9/12/1925,
+177,Sun-Goo,Lee (이선구) TOP 1000,3/5/1952,
+178,Sang-Yong,Lee (이상용),,
+179,Seok-Rae,Cho (조석래),11/19/1935,
+180,Gwan-Young,Oh (오관영),1/1/1939,t12141
+181,Young-Dal,Jang (장영달),9/26/1948,
+182,Joong-Won,Kim (김중원),3/3/1948,
+183,Tae-Hee,Yim (임태희),12/1/1956,
+184,Han-Nam,Oh (오한남),5/26/1952,
+185,Chun-Pyo,Lee (이춘표),6/9/1951,
+186,Han-Joo,Eom (엄한주),1/1/1957,
+187,Hyeong-Yong,Kim (김형용),1/1/1966,t18604
+188,Ki-Young,Chang (장기영),5/2/1916,
+189,Chi-Yong,Shin (신치용) TOP 200,10/11/1955,t1809
+190,Gap-Soo,Jeon (전갑수),1/1/1960,t18613
+191,Jung-Bae,Kong (공정배),2/1/1962,t1868
+192,Nak-Seon,Lee (이낙선),12/7/1927,
+193,Mateusz,Szadkowski,7/28/1989,
+194,Jakub,Kardyński,,
+195,Maciej,Kochański,3/1/1990,
+196,Piotr,Maciąg,,t1789
+197,Jaroslaw,Wolowiec,,
+198,Artur,Pawluś,,t5100
+199,Bartek,Kilijański,,
+200,Mateusz,Scaucik,,
+201,Radosław,zczerba,,t1340
+202,Paweł,apke TOP 500,2/13/1977,
+203,Aleksandra,Jagieło TOP 500,6/2/1980,
+204,Mateusz,Lejman,,t15720
+205,Tomasz,Myśliwy,,t1784
+206,Grzegorz,Wagner,12/13/1965,
+207,Damian,Konopski,,t17000
+208,Piotr,Gacek TOP 500,9/16/1978,t1348
+209,Grzegorz,Ratajczak,,t5215
+210,Wojciech,Jurkiewicz,6/21/1977,t1412
+211,Damian,Dąbrowski,,
+212,Przemysław,eton,,t5120
+213,Kamil,Pawlik,,t19060
+214,Michal,Trybusz,10/1/1986,t1605
+215,Jacek,Wysocki,2/27/1993,t1568
+216,Robert,Prygiel,4/17/1976,
+217,Jan,Skudlarski,,
+218,Gabriel,Kulig,9/13/1996,t19705
+219,Bartłomiej,rzysztofik,,t19705
+220,Sebastian,Świderski,6/26/1977,
+221,Karol,Lejman,,t15720
+222,Tomasz,Wiszyński,,t5107
+223,Kamil,Jankowski (Jankoś),1/2/1997,t19454
+224,Piotr,Makowski,9/23/1968,
+225,Wojciech,Pudo,1/25/1986,t5346
+226,Dariusz,Chamera,,t6905
+227,Krzysztof,Ignaczak TOP 100,5/15/1978,t1789
+228,Piotr,Piechota,,t6896
+229,Łukasz,obys,3/6/1991,
+230,Fernando,Pato,,t11363
+231,Miguel,C. Simões,,
+232,Joao,Orfao,,
+233,Brudiu,Dan,,
+234,Sergiu,Stefanescu,,
+235,Nüket,olaç,8/1/1960,t10955
+236,Đula,ešter TOP 1000,4/3/1972,
+237,Jelena,Nikolić TOP 200,4/13/1982,
+238,Zoran,Gajić TOP 100,12/28/1958,
+239,Alexey,Berezin,8/16/1960,t2004
+240,Leonid,Baryshev,11/3/1973,
+241,Alexander,Kosarev,9/30/1977,t1363
+242,Igor,Balashev,,t1587
+243,Dmitriy,Fomin,1/21/1968,
+244,Gennady,Shipulin TOP 100,4/29/1954,
+245,Stanislav,Shevchenko,1/1/1970,
+246,Valentin,Zhukov,,
+247,Sergey,Tetyukhin TOP 100,9/23/1975,t1363
+248,Yuri,Marichev TOP 200,11/17/1960,
+249,Oleg,Chekhov TOP 1000,4/9/1922,
+250,Victor,Lazarev,11/26/1986,t21349
+251,Andrey,Kalinin,10/1/1984,
+252,Rafkat,Kantyukov,8/23/1953,t5075
+253,Oleksandr,Bilenkyi,6/3/1974,t9919
+254,Daniil,Anokhin,,t21349
+255,Alexander,Kosarev,9/30/1977,t1363
+256,Vincent,Rodriguez (Vinny),,t14326
+257,Nick,England,,t14326
+258,Russell,Holmes TOP 1000,7/1/1982,t14322
+259,Doug,Beal TOP 200,3/4/1947,
+260,Alexander,Sabo,,
+261,Vladimír,ančík TOP 1000,4/16/1944,
+262,Peter,Goga,9/6/1965,
+263,Marián,alenčar,3/6/1985,t2926
+264,Dacha,Suwarak,,
+265,Panchai,Bawonratanapran,,
+266,Watcharapol,Tomorrasak,,
+267,Harun,şahin,2/14/1981,
+268,Can,Emre çelik,,
+269,Seniye,Merve Dalbeler Aslan TOP 500,6/27/1987,
+270,Muzaffer,Yedikara,,
+271,Serhat,Karaarslan,,
+272,Büşra,nsu Kılıçlı TOP 500,7/16/1990,
+273,Ali,Orhan,,t15773
+274,Aydin,Kaya,,
+275,Abdullah,Kelkitli,6/29/1989,
+276,Ferit,Gemici,,
+277,Hüsnü,tuncel,,
+278,Mustafa,Şaylan,2/16/1987,
+279,Bahar,Toksoy Guidetti TOP 200,2/6/1988,
+280,Nüket,olaç,8/1/1960,t10955
+281,Alper,Keser,,
+282,Sahin,Ozcan,,
+283,Burak,Çelik,6/14/1995,t15354
+284,Ismail,Dededağlılar,,

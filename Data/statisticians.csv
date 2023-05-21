@@ -1,0 +1,555 @@
+statisticians_id,first_name,last_name,birthdate,team_id
+1,Elian,Quintans,,
+2,Lucas,Alborch,1996-03-04,t17153
+3,Javier,Oggier,1977-01-24,t5134
+4,Matias,Serafin,1983-06-08,t20310
+5,Hasan,Saračević,1992-08-14,
+6,Adin,Adiin (Adin),2000-08-29,
+7,Fahrudin,Koča,,t1687
+8,Maarten,Adriaensen,,
+9,Bart,Luyckx,,t2795
+10,Arnaud,Marcelis,,
+11,Marnix,Acar,,t2694
+12,Sven,Govers,,t1987
+13,Matthias,Dermout,,
+14,Erwin,Mares,,t1484
+15,Jan,Dirken,1985-08-02,t11138
+16,Lieven,Louagie,,
+17,Cédric,odfroid,1984-05-17,t1987
+18,Stefan,Thormeyer,1984-03-20,
+19,Thomas,Dieu,,
+20,Ann,Van Landeghem,1976-03-20,
+21,Jürgen,othe,1956-06-13,
+22,Frank,Kahlmann,1968-01-11,
+23,Detlev,Schönberg,,
+24,Kevin,Jöhl,1995-05-15,t1989
+25,Rebekka,Schneider,1997-05-01,
+26,David,Granados Ruiz,1979-06-23,
+27,Tjalwe,Nickolai Jensen,,
+28,Mikkel,Rusbjerg,,t4361
+29,Bardur,Bendix Mikkelsen,1977-03-10,
+30,Andy,Khang Lam (Khang),1983-12-26,
+31,Anne,Pries Olsen,,
+32,Troels,Lavritsen,1991-06-17,
+33,Andreas,Reinert Zachhau (Zachhau),1998-07-04,
+34,Julie,Lee,1981-04-17,t4354
+35,Hani,Samir,,
+36,Elaraby,Ellithy (Ellithy),1982-08-25,t3672
+37,Hamada,El Sayed,,
+38,Said,Galal,,t6736
+39,Diego,C. Rodríguez Tabares,1986-09-04,
+40,Alfonso,Escalante,,
+41,Bart,De Gieter,1974-07-17,t1894
+42,Guy,Schroyen TOP 1000,,t1685
+43,Damien,Dupont,1989-01-09,
+44,Marnix,Steyaert,,
+45,Jana,Bosmans,,
+46,Vincent,Moder,1993-06-12,
+47,Matthias,Dermout,,
+48,Noelia,Santacreu Lujan,,
+49,Birgen,Despodt,,
+50,Christianne,Verschueren,,
+51,Chul-Hong,Kim,1981-10-04,t1809
+52,Elias,Cornelis,,
+53,Marcel,Gola,1988-10-03,t3644
+54,Antonio,D'Ambrosio,,
+55,Darko,Mitrovic,1988-08-30,
+56,Sergei,Ivanov,1972-02-19,t6274
+57,Davide,Raso,,
+58,Jovan,Božić,,
+59,Kiril,Donev,,t1629
+60,Toni,Flink,1970-07-30,
+61,Ari-Heikki,Kulmala,1977-05-01,t4347
+62,Antonio,Miroslavov Ivanov,1993-12-07,t1610
+63,Danko,Tonev,,t4114
+64,Nikola,Dimitrov,1986-11-27,
+65,Milen,Bogdanov,1998-09-07,t1619
+66,Luciano,Minossi (Lucianinho),1976-11-07,t1965
+67,Ubiratan,Curupaná,,t5331
+68,Raiko,Worf,1978-04-30,t2421
+69,Raimund,Jeuck,1969-02-04,t4910
+70,Luís,lexandre Pontes Rodrigues,1965-05-23,
+71,Julius,Milo,,
+72,Mike,Dodd,1957-10-20,t6594
+73,Darko,Tomić,1974-01-01,t4207
+74,Julia,Laakso,,t1580
+75,Sven,Simon,1979-06-04,t1660
+76,Carmelo,Dela Fuente,,
+77,Arthur,Cohen,1989-02-21,
+78,Han-Soo,Lee (이한수),1980-01-01,t1551
+79,Gerold,Rebsch (Gerri),1981-04-16,t1679
+80,Stojan,Radulović,,
+81,Sébastien,orie,1985-02-24,
+82,Sam,Morgan,,t1631
+83,Stephan,Kulhanek,,
+84,Marion,Plisset,,
+85,Dal-Ho,Kim (김달호),1981-06-09,
+86,Bojan,Slegel,1982-09-19,
+87,Raphaël,etit,1996-04-10,t2475
+88,Stefan,Strajin,,t1852
+89,Justin,Chang,,
+90,Joel,Nilsson,,
+91,Anderson,Menezes (Xanxa),1978-06-04,t1396
+92,Rafael,Laurentino (RAFA),1988-07-15,t1355
+93,Aguinaldo,Santos,,
+94,Anna,Zemskova,,
+95,Igor,Jović,1981-07-16,t8232
+96,Oscar,Papke,2004-02-23,t11459
+97,Sebastian,Lilja,,
+98,Walber,Costa,1994-10-24,
+99,Laura,Munišič,1999-09-03,
+100,Jeong-A,Kim,1972-04-23,
+101,Denis,Cabral de Moraes TOP 1000,1983-02-23,
+102,Cristina,Petrovic,,
+103,Hyun-Jung,Lee TOP 1000,1984-07-16,
+104,Roberta,Giglio (Robertinha) TOP 100,,
+105,Mitja,Torkar TOP 1000,1954-07-03,t1296
+106,Gustavo,Henrique,1997-02-21,t8858
+107,Felipe,Laurentino (Felipe),1988-07-15,t4886
+108,Marco,Conton,,
+109,Mitja,Trglec,,
+110,Pedro,Henrique Barros,,
+111,Domen,Kozinc,,t6303
+112,Bryan,Vanzan (Vanzan),1998-03-24,
+113,Tania,Zambon,,
+114,Giulia,Bonin,,
+115,Roberto,Menegolo,1984-09-17,
+116,Diego,Philippe,1992-11-02,t3581
+117,Giuseppe,Cannarella,,
+118,Rafael,Carreira de Carvalho,1993-01-31,
+119,Henrique,Modenesi TOP 500,1980-01-15,
+120,Andrei,Mikhnevich,1989-12-14,
+121,Christian,Ramos Cabrera,1983-05-24,t1449
+122,Yahor,Palvinski,2000-07-01,t3835
+123,Paolo,Benetti,1991-04-06,
+124,Manuel,Martínez Martínez,,
+125,Nazar,Solomny,,t1828
+126,Fabio,Biselli,,
+127,Judith,Pérez Jiménez,1989-05-09,
+128,Min-Ji,Choi,2000-05-24,
+129,Fabrizio,Fregosi,,
+130,Pablo,Sánchez,1993-03-12,
+131,Chan-Wook,Song (송찬욱),1998-04-23,
+132,Michael,Gasser,,
+133,Alejandro,Terrero Barranco,1997-10-10,
+134,Kyung-Hoon,Jeong (정경훈),1998-07-30,
+135,Julie,Barbier,,t3629
+136,Borja,Resina Montero,1986-10-28,
+137,Francesca,Pantiglioni,1973-11-28,
+138,Hyun-Sang,Yoo (유현상),1996-01-01,t1612
+139,Maria,Pardo Ballesteros,,
+140,Alberto,Bresciani,,
+141,Sung-Soo,Park (박성수),1995-02-20,
+142,Lorenzo,Abbiati,1989-09-08,
+143,Jose,Maria Sanchez Abrunedo,,
+144,Manuel,Petrillo,,t1735
+145,Carolina,Rodellar Cuesta,,
+146,Marco,Zühlke,,
+147,Laurent,Châtelain,,t1415
+148,Giampietro,Capoferri,,
+149,Young-Ho,Jeong (정영호),1991-09-14,
+150,Marco,Barella,,
+151,Marco,Martalò,,
+152,Loïc,hevalier,1985-07-09,
+153,Bojan,Perović TOP 500,1981-01-01,
+154,Vladislav,Nikolayev,1992-02-09,
+155,Bor,Omejc,2000-01-01,t1701
+156,Dragan,Cvetković,,t1439
+157,Matija,Petrič,1977-09-07,
+158,Carlos,Buenaga,,t11182
+159,Guido,Manaresi,,
+160,Branko,Vitorović,,
+161,Gilles,Imboden,,t1602
+162,Sergey,Shmelyov,,
+163,Robert,Hronský,,
+164,Michelangelo,Antelmi,,
+165,Nikola,Santrač,,
+166,Sergio,Perez Garcia,,
+167,Islam,Mukhamedualiyev (Islam),,
+168,Diana,Margetiaková,,
+169,Stefano,Volpi,1966-02-11,
+170,Maria,Herrero Lorenzo,,
+171,Davor,Plećaš,,t2782
+172,Francina,Sintes Marroquín,,
+173,Momčilo,vijović,,
+174,Moritz,Mies,1996-12-08,
+175,Žarko,icmil,,
+176,Martin,Dobiaš,1992-11-20,
+177,Marko,Krtinić,,
+178,Veronika,Mihaliková,2000-03-17,t2926
+179,Nina,Hrneková,,
+180,Grégoire,esse,,
+181,Maria,Dubinová,,
+182,Nemanja,Vasiljević,,
+183,Didier,Lugan,,
+184,Daniel,Hajduk,,
+185,Damien,Pepin,1991-10-01,
+186,Claude,Martin,,
+187,Samuel,Rosinský,1996-11-15,
+188,Alberto,Salmaso,1995-11-08,t1739
+189,Vratko,Michalič,,
+190,Vitus,Raßhofer,2002-04-06,
+191,Martin,Szabó,1997-06-09,
+192,Florian,Pittschaft,1986-05-20,t2529
+193,Angel,López Sáez,,
+194,Yerassyl,Nuralin,1993-04-22,
+195,Daniel,Guardado Cubero,,
+196,Michal,Kotulič,1997-12-15,
+197,Nursat,Khatip,,t2659
+198,Daniel,Bruch,1989-12-10,
+199,Elisa,Zulian,,
+200,Max,Filip,1992-09-11,
+201,Jesus,Latorre,,
+202,Guillermo,Vazquez,,
+203,Deniss,Bogdanovs,2002-02-15,t4416
+204,Mehmet,Sönmez,,
+205,Diego,Vazquez Moreno,,
+206,Melvin,Merle,,t15786
+207,Evelina,Rutkovska,2003-06-19,
+208,Francesco,Ingegnoli,,
+209,Martos,Manuel Galán Arias,,
+210,Alperen,Uysal,,
+211,Manuela,Kiousis,1964-09-08,
+212,Osman,Cicek,,
+213,Alkis,Mpelos,1984-05-29,t1745
+214,Cristian,Gonzalez,,t1602
+215,Christian,Beutler,1982-07-08,
+216,Mareks,Maksimov,,
+217,Bruno,Sala,,
+218,Javier,Oggier,1977-01-24,t5134
+219,Ulrike,Schemel,1989-12-27,
+220,Patrick,Vlieger,,t1291
+221,Giacomo,Corsi,,
+222,Sergio,Hugo Gomez Barbero,,
+223,Paolo,Di Lorenzo,,
+224,Stefano,Alghisi,,t1979
+225,Alessandro,Pasini,,
+226,Zuzana,Iblerova,,
+227,Yiannis,Priovolos,,
+228,Matthias,Lerch,1959-04-27,
+229,Marian,Groot - Koerkamp,,t4279
+230,Domenico,Lazzaro,,t1551
+231,Panagiotis,Tsotras,,
+232,Elias,Garcia Martinez,,
+233,Ceren,Işıkel,,
+234,Andreas,Häußler (Andi),,
+235,Muriel,Schönbächler,,t3628
+236,Ramazan,Öztürk,,
+237,Panagiotis,Kountouridis ([email protected]) TOP 500,1982-09-29,
+238,Christy,Van Buren,,t1842
+239,Anıl,avaş,1992-01-02,
+240,Gianna,Limmroth,1991-11-13,
+241,Simone,Caraceni,,
+242,Mehmet,Gürüler,,
+243,Dimos,Avtzioglou,1977-08-20,
+244,Onur,Uygun,1998-07-21,
+245,Olaf,Garbe,1964-03-15,
+246,Dimitris,Zacharopoulos,1978-03-23,t8471
+247,Ramon,Van der Linden,1992-12-22,
+248,Teoman,Topçu,,
+249,Mirko,Calcaterra,,
+250,Ali,Rıza Metin,1995-01-02,t1534
+251,Ronald,Lemmers,1979-05-05,
+252,Resul,Güldüz,,t11566
+253,Nikos,Georgakis,1989-01-16,t12769
+254,Mustafa,Korkmaz,,
+255,Matthias,Schumacher,1960-02-05,
+256,Giorgio,Tomasetto,,
+257,Mustafa,Kilinc,,
+258,Matthieu,Van den Broeke,,
+259,Rosa,Ruiz Alonso,,
+260,Emanuele,Aime,,
+261,Emre,Türkileri,1996-02-28,
+262,Koldo,Quintas Gómez,,
+263,Emre,Yanik,1997-12-07,
+264,Argyris,Antifakos,1986-10-07,
+265,Stefan,Urbanek,1989-03-29,
+266,Teun,Pijnenburg,,
+267,Thanasis,Toloudis,,
+268,Özay,ıldız,1996-06-16,
+269,Abdulhalik,Kılıçkaya,,t6549
+270,Florian,Zach,1993-02-27,t2421
+271,Emma,Schild,,
+272,Yavuz,Kaya,1987-03-24,
+273,Dimitrios,Giamalis,1978-07-19,
+274,Carla,Pinaya Penedo,,
+275,Ercan,Keskin,1977-08-01,t4913
+276,Rianne,Verhoek TOP 1000,1990-11-30,
+277,Sergio,Valsecchi,,
+278,Arjan,Naus,,
+279,Mehmet,Onur Erşahin,,t3007
+280,Daniel,Gerber,1979-07-12,
+281,Alex,Cavallone,,
+282,Fatih,Yagci TOP 200,,
+283,André,child,,
+284,Kerem,Taha Solmaz,1995-01-05,t1633
+285,Ozan,Asar,,t3006
+286,Mustafa,Ak,,t6328
+287,Fatih,Kurnaz,1996-01-03,
+288,Giancarlo,D'Angelo,,
+289,Sedat,Şanlı,,
+290,Stephan,Strohbücker,1982-12-05,t1495
+291,Tom,Baas,,
+292,Gigliola,Ropresti,,
+293,Patrick,Espelage,2002-04-07,
+294,Eileen,Possekel,1998-07-01,
+295,Lanfranco,Cornia,,
+296,Michel,Beautier,1971-03-14,
+297,Daniele,Cesareo,,
+298,Edoardo,Melato,2001-01-01,
+299,Philipp,Häußler,1988-10-29,
+300,Kamil,Kwiecinski,1993-05-02,t1485
+301,Giulio,Zoppello,,
+302,Michael,Lehmann,1963-10-17,
+303,Kacper,Goździkiewicz,,
+304,Gabriele,Carfora,,
+305,Dawid,Stępniak,1993-08-20,
+306,Menelaos,Fragkiadakis,1989-10-12,t12924
+307,Damian,Wyszyński,1998-06-09,t10261
+308,Stefania,Bebi,1990-10-08,
+309,Aleksandra,Tama,,t1576
+310,Piergiorgio,Bittichesu,,
+311,Sebastian,Zamarski (szamarski),1991-03-27,
+312,Silke,Tigler,1976-02-06,
+313,Stefano,Fogliani,,
+314,Krzysztof,Konieczny,,t19416
+315,Emrullah,Aydin,,
+316,Fabio,Lavecchia,1987-08-31,
+317,Paul,Köhler,1990-10-08,
+318,Olcay,Kahraman,1998-01-15,
+319,Aykut,Aydin (akoaydin),1990-01-17,
+320,Ippokratis,Dimitsas,,
+321,Mateusz,Pietrzak,1993-06-17,
+322,Julia,Liebscher,1991-04-03,
+323,Hakan,Can Turan,,
+324,Matteo,Campioli,,
+325,Bartosz,Ziołnowski,,
+326,Albertos,Matias,1970-07-26,
+327,Lars,Benner,1975-11-16,
+328,Burak,Simit,1993-10-13,
+329,Cezary,Kostaniak,1995-04-22,t1340
+330,Doğukan,urdakul,1996-08-04,t15773
+331,Panagiotis,Tsimboglou,1991-10-31,
+332,Esra,Nur Temur,,
+333,Coşkun,evran,2006-01-16,
+334,Fikri,Ağan,1986-10-08,t1556
+335,Enes,Usta,2004-05-21,
+336,Eric,Heyn,1989-01-07,
+337,Metin,Makal,,
+338,Mustafa,Söğüt,1999-04-19,
+339,Halil,Demirkan,1989-11-19,
+340,Kacper,Duda,1998-03-19,
+341,Ahmet,Taha Şahin,,t10460
+342,George,Mylonas,2005-07-19,
+343,Andreas,Bühler,1973-06-17,
+344,Simone,Rebessi,1999-08-29,
+345,Antonios,Tarlas TOP 1000,1970-10-05,
+346,Emre,Çelikkiran,,t1556
+347,Furkan,Kasap,,
+348,Giannis,Stylianou,1990-06-26,t1320
+349,Xenofon,Krokos,1978-11-08,
+350,Tunahan,Bayraktar,1997-10-31,
+351,Andrea,Spina,1986-06-16,
+352,H.,Canberk Akyıldız,1999-02-16,
+353,Mateusz,Parfieńczyk,1995-11-17,t1564
+354,Alexandros,Laios,1974-11-18,t1289
+355,Tiziano,Schillace,,
+356,Maciej,Barczyński,1990-08-08,t1444
+357,Zoe,Kosmoglou,1977-10-27,
+358,Alperen,Ulusal,2001-05-19,
+359,Alessandro,Vincenzi,1970-01-01,
+360,Kadir,Akyıldız,1996-02-15,
+361,Artun,Aksan TOP 1000,1992-08-18,
+362,Onur,Can Coskun,,
+363,Mert,Balcı,,
+364,Yunus,Emre Ozben,1995-04-15,
+365,Mehmet,Tuğyanoğlu,1992-02-27,t2007
+366,Eray,Sertkaya,,
+367,Tarkan,Yüce,,
+368,Refik,Kayikci,,
+369,Semih,Demiroren,,
+370,Çağrı,tafa Tan,,t5650
+371,Bahrican,Dundar,,
+372,Mert,SIR,2000-08-05,t3651
+373,Sefa,Gökburun,1990-02-09,
+374,Yeivic,Jimenez TOP 500,,
+375,Giorgio,Simolo,,
+376,Oswaldo,Yepez,1976-09-05,
+377,Bartłomiej,ajdek,1994-09-03,
+378,Paweł,ocot,1995-10-11,t1999
+379,Rusber,Campos González,,
+380,Ilias,Georgiou,,t5983
+381,Rafal,Zając,1988-01-02,t1365
+382,Andrea,Cornaglia,1986-09-28,
+383,Anna,Moustaka,1980-06-21,t1501
+384,Alice,Zanola,,
+385,Dominik,Fabianowicz,,
+386,Ádám,erencsés,,t1934
+387,Roberto,Longeri,,
+388,Leszek,Hudziak,1988-11-02,t1589
+389,Attila,Garas,1979-07-20,
+390,Giuliana,Degan,1984-01-01,
+391,Kacper,Węglarski,,t2868
+392,Ákos,sizmarik,,
+393,Cesare,Bosisio,,
+394,Paweł,owalewski,1988-07-24,t6899
+395,András,irály,,t21344
+396,Alessandro,Bianciardi,,
+397,Andrea,Polimeno,,
+398,Mariusz,Neroj,1982-07-12,t1998
+399,Danilo,Contrario,,
+400,Maciej,Etgens,1993-09-06,
+401,Patrick,Bandini,1993-06-23,
+402,Mohammad,Makhdoumi,1984-02-27,t1642
+403,Valentino,D'Agata,,
+404,Mateusz,Nykiel,1997-04-08,t1346
+405,Sajad,Nasiri,1996-01-05,
+406,Paweł,łyński (Młynek),,t1658
+407,Amir,Parvan (steve),1999-08-22,
+408,Franciszek,Melaniuk,2002-11-18,t1665
+409,Alessandro,Lombardi,,
+410,Piotr,Wątorek,,
+411,Kacper,Lawicki,,
+412,Saed,Jadidoleslam (Saed),1998-07-30,t13555
+413,Stanisław,zewczyk,1992-10-24,
+414,Amir,Samimi,,
+415,Simone,Maurilli,,
+416,Paolo,Perrone TOP 1000,1993-05-17,
+417,Michele,Lucherini,,
+418,Chiara,Biena,2000-03-16,
+419,Riccardo,Romani,1978-01-09,
+420,Michał,ichy,1977-11-29,
+421,Leonardo,Calò,,
+422,Roberto,Colato,1988-02-29,
+423,Michał,rzeszcz,1998-02-04,
+424,Mattia,Gadda,,
+425,Paolo,Volante,,
+426,Dominik,Posmyk,1995-08-12,t1897
+427,Andrea,Zeni,,
+428,Alessandro,Parise (Ale),1969-12-01,
+429,Andrea,Zampis,,
+430,Nenad,Paravinja,1996-08-28,
+431,Fabrizio,Gaeta,,
+432,Andrea,Biasioli,,
+433,Maria,Heppner,1996-04-23,
+434,Giuseppe,Petriello,,
+435,Luka,Ratković,2003-03-31,t1439
+436,Dariusz,Trociński,,t14439
+437,Maurizio,Cibba,,t1890
+438,Michał,rztoń,,t1548
+439,Lazar,Tabaković,,
+440,Michael,Barbero,,
+441,Robert,Kaźmierczak TOP 500,,
+442,Jovana,Sredojević,,
+443,Andrea,Rossi,,
+444,Paolo,Gabrielli,,
+445,Tomás,eis,,t1480
+446,Vladimir,Ilic,,
+447,Fabio,Dalla Fina TOP 1000,,
+448,Helder,Lourenço,,
+449,Djordje,Nahod,1985-11-28,
+450,Gustavo,Gallotti (Gus),1964-01-12,
+451,Daniel,Moreira,,t1801
+452,Vladimir,Kozić,1994-07-14,t4007
+453,Valerio,Zenaro,,
+454,Roberto,Di Maio,1973-02-16,t1369
+455,Maria,Dias,,
+456,Vasilije,Stojanović,,
+457,Tommaso,Valeri,,
+458,Francisco,Castro,2000-04-26,t1294
+459,Ognjen,Markovic (Moggie),1995-07-27,
+460,Giovanni,Del Basso,,
+461,Vladimir,Bogojević,,t2357
+462,Maurizio,Gallo (Mizio),,t17378
+463,Tomás,ereira,2003-11-07,
+464,Vasilje,Stojanovic,,
+465,Alberto,Cazziol (Alby) TOP 500,,
+466,Rodrigo,Caldas (Caldas),1999-07-29,
+467,Nikola,Nikolić,,t10550
+468,Nenad,Dimić,1981-02-13,
+469,Juro,Dujak,,t4007
+470,Pier,Paolo Bovero,,
+471,Srdjan,Mijatović,1999-01-01,t8241
+472,Pedro,Gouveia,1999-02-04,
+473,Tommaso,Rizzo,,
+474,Novak,Seratlić,,t1439
+475,Sérgio,artins,1989-04-11,
+476,Leonardo,Camarini,,
+477,Luís,ernandes,,
+478,Luka,Tabaković,,t6685
+479,Rares,Vasile Cosma,,
+480,Carla,Sanchez Garcia,,
+481,Ivan,Krgović,,
+482,Rosu,Mircea,1996-02-15,
+483,Fabio,Gabban TOP 1000,,
+484,Vladimir,Stojiljković,,t1751
+485,Mihăilă,hai (Iță),,t21033
+486,Giulia,Osimo,,
+487,Djordje,Žigić,,t1783
+488,Lucian,Voinea,1981-03-09,
+489,Diana,Mihai,1997-09-23,
+490,Pavle,Matic,,
+491,Marius,Pop,1996-01-27,t1460
+492,Marko,Petrenj,,
+493,Antonio,Amelio,,t17378
+494,Vojislav,Skorić (Voya),1984-05-30,t1312
+495,Marco,Greco,,
+496,Luka,Zucović (Zule),2003-03-31,
+497,Lorenzo,Villani,,
+498,Andreea,Suzana Poptean,,
+499,Gabriele,Zinzani,,
+500,Vuk,Savić,,t8241
+501,Daniele,Nicoletti,,
+502,Ivan,Marković,,
+503,Vlad,Păușescu TOP 1000,,
+504,Massimo,Gazzola,,
+505,Aleksandar,Cvetkovic TOP 1000,1981-01-24,
+506,Sara,Quarga,,
+507,Jovan,Bošković,,
+508,Daniele,Dercole,,
+509,Jovan,Rumenić,,t1790
+510,Antonio,Viselli,,
+511,Sergey,Kornev,,t2002
+512,Konstantin,Kirillov,,t4499
+513,Alexander,Boldyrev,1990-01-01,t1619
+514,Georgii,Makarov,1995-01-13,t5384
+515,Anton,Lukin,1991-02-02,t4499
+516,Davide,Bernardini,,
+517,Nikita,Medvedev,1993-10-01,t1486
+518,Raluca,Andrei Constantinescu,1981-01-18,
+519,Gaku,Mikami (三上 岳),,t7691
+520,Samir,Mukharov,,t1684
+521,Mirko,Radisavljević,,
+522,Fujimoto,Takutaro,,t2650
+523,Artem,Sinyavskiy,2004-07-02,t1619
+524,Blagoje,Papović,,
+525,Akihisa,Ishihara (石原昭久) TOP 1000,1966-02-10,
+526,Sergei,Bezzaponny,1994-03-01,
+527,Hiroshi,Miyawaki,1988-09-29,
+528,Andrey,Lastochkin,1996-01-24,t1342
+529,Majda,Ramljak,,
+530,Keita,Watanabe (渡辺啓太) TOP 1000,1983-09-30,
+531,Sergei,Ivanov,1972-02-19,t6274
+532,Aleksandar,Grujić,1993-01-01,t2870
+533,Kiwako,Kawamoto,2000-02-08,t6524
+534,Danil,Andreev,,t4499
+535,Darko,Lazović,,t8236
+536,Maxim,Shelgachev,1987-07-30,t1594
+537,Riri,Takamoto,,
+538,Miloš,aprika,2000-07-22,t1851
+539,Dmitriy,Alpeev,1989-11-04,t2003
+540,Takuya,Okamura (岡村拓哉),,
+541,Fedor,Kuzin TOP 500,1982-06-08,
+542,Takuma,Yoshida (Takuma),1999-06-09,t1570
+543,Djordje,Pejić (Joshua) TOP 1000,1988-12-25,
+544,Pavel,Fabritci,,
+545,Kyung-Han,Kim (김경한),1990-01-01,
+546,Fahrudin,Koča,,t1687
+547,Dmitrii,Mariukhnich TOP 1000,1976-06-15,
+548,Darko,Stojanović,,t2870
+549,Pavlo,Sidenko,1980-07-11,t4391
+550,Jovan,Djordjević,1997-01-01,
+551,Volodymyr,Buhakov,1997-05-08,
+552,Joo-Hyeon,Lee,,
+553,Dean,Petrović,,t3064
+554,Dragan,Stojić,,t5238
